@@ -1,5 +1,5 @@
 # DataCamp Data Scientist Associate Certification Practical Exams
-## Practical Exam: Supermarket Loyalty
+## Sample Practical Exam: Supermarket Loyalty
 
 International Essentials is an international supermarket chain.
 
